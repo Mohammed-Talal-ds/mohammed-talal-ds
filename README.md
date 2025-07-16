@@ -33,8 +33,8 @@
 
 Feel free to explore my repositories and connect with me on:
 
-- 🌐 [LinkedIn](https://www.linkedin.com/) <!-- Replace with your real link -->
-- 📊 [Kaggle](https://www.kaggle.com/) <!-- Replace with your real link -->
+- 🌐 [LinkedIn](https://www.linkedin.com/) 
+- 📊 [Kaggle](https://www.kaggle.com/mohammedtalal) 
 
 ---
 
