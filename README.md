@@ -34,7 +34,7 @@
 Feel free to explore my repositories and connect with me on:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/) 
-- 📊 [Kaggle](https://www.kaggle.com/mohammedtalal) 
+- 📊 [Kaggle](https://www.linkedin.com/in/mohammed-talal-8b0945374/) 
 
 ---
 
