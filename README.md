@@ -26,6 +26,7 @@
 ### 📜 Certifications
 
 - 🏅 IBM Data Science Professional Certificate
+- 🏅 Stanford Machine Learning Specialization
 
 ---
 
